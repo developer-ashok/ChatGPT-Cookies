@@ -9,3 +9,7 @@ copy-token_1.2.gif
 copy-token.gif
 .github/workflows/main.yml
 .github/workflows/main2.yml
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
